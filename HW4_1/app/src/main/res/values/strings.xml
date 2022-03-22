@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">109590037_HW4_1</string>
+    <string name="editText_main">Please Enter</string>
+    <string name="mycount_value">0</string>
+    <string name="text_header_reply">    </string>
+    <string name="button_text">COUNT</string>
+</resources>
