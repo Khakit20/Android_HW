@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">109590037_HW07_1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro_text">My tea time food</string>
+    <string name="donuts">Click the Donut image</string>
+    <string name="ice_cream_sandwiches">Click the Ice Cream Sandwiches image</string>
+    <string name="froyo">Click the Froyo image</string>
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
+    <string name="froyo_order_message">You ordered a FroYo.</string>
+    <string name="change_dessert">Change dessert</string>
+    <string name="this_is_donuts">This is Donuts</string>
+    <string name="this_is_ice_cream">This is Ice Cream</string>
+    <string name="this_is_froyo">This is FroYo</string>
+</resources>
