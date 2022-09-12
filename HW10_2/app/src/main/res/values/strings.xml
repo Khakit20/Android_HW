@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">109590037_HW10_2</string>
+
+    <string-array name="url_title">
+        <item>Youbike1.0</item>
+        <item>Youbike2.0</item>
+    </string-array>
+</resources>
